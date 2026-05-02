@@ -2,7 +2,7 @@
 
 # Kuvalesh Sadasivuni
 
-### AIML Engineer | Computer Vision | Deep Learning
+### AIML Engineer | Computer Vision | Deep Learning | Quantum ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kuvalesh)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Kuvalesh)
@@ -17,16 +17,6 @@
 📄 Published Researcher — 2 research papers in AI  
 📍 Bengaluru, India  
 🔍 Open to Work  
-
----
-
-### 🚀 Currently Building
-
-| Project | Description | Status |
-|---|---|---|
-| 🔫 Pellet Armory System | AI powered QR inventory for shooting ranges | 🔨 Building |
-| 🏹 Shooting Posture Analyzer | MediaPipe real time posture detection | 📅 Planned |
-| 🏎️ F1 Lap Time Predictor | ML model using real telemetry data | 📅 Planned |
 
 ---
 
@@ -50,6 +40,7 @@ IJCRT Vol. 13, No. 7, July 2025
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-6C3483?style=flat&logo=python&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
